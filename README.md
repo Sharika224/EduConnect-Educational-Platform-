@@ -5,4 +5,6 @@ For educators, EduConnect offers tools for creating and managing courses, tracki
 
 Designed for a global audience, EduConnect aims to make education more accessible, flexible, and tailored to the needs of diverse learners.
 
+You can check out the website here: https://sharika224.github.io/EduConnect-Educational-Platform-/
+
 ![Screenshot (609)](https://github.com/user-attachments/assets/1a0a2466-79ad-47f9-b963-91036275259a)
